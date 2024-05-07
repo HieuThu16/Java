@@ -9,6 +9,8 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.JLabel;
 
 public class TrangChu extends JFrame {
+	
+	// nênne
 
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
